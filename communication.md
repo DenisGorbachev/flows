@@ -6,3 +6,4 @@
 * Don't send confirmations (:thumbsup:, :ok_hand:).
 * Use direct messages instead of group messages for personal questions.
 * Send location instead of name of the place.
+* Call if urgent.
